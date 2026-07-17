@@ -1,0 +1,5 @@
+zen-kernel/
+busybox/
+*.iso
+*.cpio.gz
+
